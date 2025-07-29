@@ -9,4 +9,4 @@ This project includes:
 
 🔧 Tech Stack: SQL (MySQL or SQLite), GitHub
 
-📂 File: `employee_management.sql`
+📂 File: `Employee_Management.sql`
